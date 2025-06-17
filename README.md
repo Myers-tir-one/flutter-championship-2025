@@ -18,12 +18,7 @@ ___________________________________________________________________
  assets:                                                     
 assets/localization/en.json                                               
 assets/localization/ru.json                                   
- assets/corsk.png                                
- assets/cros1.png                            
- assets/cros2.png                           
- assets/cros3.png                                    
- assets/men.png                                 
- assets/strih.png                                           
+ assets/nike1.png                                                          
 __________________________________________________                                                                                  
 Readme.md structure
 
