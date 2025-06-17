@@ -24,11 +24,11 @@ Readme.md structure
 
 Folder stucture
 
-/lib
-└── core
-│ ├── helpers
+/lib                         
+└── core                             
+│ ├── helpers                         
 | | |└── brand_colors.dart     
-│ ├── router
+│ ├── router                         
 │                             
 └── layers                     
 │ └── data                         
